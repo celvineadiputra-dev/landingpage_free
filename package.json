@@ -1,0 +1,8 @@
+{
+  "name": "LandingPage-project",
+  "version": "1.0.0",
+  "description": "DESC",
+  "devDependencies": {
+    "purgecss": "^4.0.3"
+  }
+}
