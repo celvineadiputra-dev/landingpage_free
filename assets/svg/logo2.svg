@@ -1,0 +1,8 @@
+<svg width="85" height="87" viewBox="0 0 85 87" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:darken">
+<path d="M85 57C85 73.5685 71.5685 87 55 87L25 87L25 52C25 35.4315 38.4315 22 55 22L85 22L85 57Z" fill="#FFC400"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<path d="M65 57C65 73.5685 51.5685 87 35 87L-7.62939e-06 87L-2.6463e-06 30C-1.19783e-06 13.4315 13.4315 3.12113e-06 30 4.5696e-06L65 7.62939e-06L65 57Z" fill="#FFC400"/>
+</g>
+</svg>

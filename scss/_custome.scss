@@ -1,5 +1,6 @@
 $purple : #777CD9;
 $dark-purple : #414581;
+$dark-purple2: #3B2774;
 $cyan : #24D7FF;
 $orange : #FFC400;
 $soft-gray : #e6e6e6;
@@ -64,6 +65,13 @@ h1{
     border-radius: 5px;
     &.btn-dark-purple{
         background-color: $dark-purple;
+        color: $white;
+        font-weight: 500;
+        font-size: 25px;
+        box-shadow: 2px 1px 4px #2f3484ad;
+    }
+    &.btn-orange{
+        background-color: $orange;
         color: $white;
         font-weight: 500;
         font-size: 25px;
@@ -166,6 +174,18 @@ nav.bg-light{
             justify-content: space-between;
             margin-top: 10px;
             color: $soft-gray2;
+        }
+    }
+}
+
+.bg-dark-purple2{
+    background-color: $dark-purple2;
+    color: $white;
+    .row{
+        div{
+            .headline{
+                color:  $white;
+            }
         }
     }
 }

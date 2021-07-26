@@ -9176,6 +9176,14 @@ h1.headline, .headline.h1 {
   -webkit-box-shadow: 2px 1px 4px #2f3484ad;
           box-shadow: 2px 1px 4px #2f3484ad;
 }
+.btn-custom.btn-orange {
+  background-color: #FFC400;
+  color: #fff;
+  font-weight: 500;
+  font-size: 25px;
+  -webkit-box-shadow: 2px 1px 4px #2f3484ad;
+          box-shadow: 2px 1px 4px #2f3484ad;
+}
 
 .heightHeader {
   min-height: 85vh;
@@ -9295,4 +9303,12 @@ nav.bg-light {
           justify-content: space-between;
   margin-top: 10px;
   color: #a0a0a0;
+}
+
+.bg-dark-purple2 {
+  background-color: #3B2774;
+  color: #fff;
+}
+.bg-dark-purple2 .row div .headline {
+  color: #fff;
 }
